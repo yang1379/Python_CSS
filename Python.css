@@ -116,7 +116,7 @@
   color: White;
   text-align: center;
 }
-#top-data-quote{
+.top-data-quote{
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
@@ -137,24 +137,28 @@
 }
 #middle-left{
   height: 250px;
-  width: 400px;
+  width: 350px;
   display: inline-block;
   vertical-align: top;
   border-top: 5px solid;
   border-color: LightBlue;
-  margin-left: 125px;
+  margin-left: 105px;
   margin-right: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 #middle-left li{
   list-style-type: square;
 }
 #middle-right{
   height: 250px;
-  width: 400px;
+  width: 350px;
   display: inline-block;
   vertical-align: top;
   border-top: 5px solid;
   border-color: LightBlue;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 .middle-title{
   font-family: Arial, Helvetica, sans-serif;
